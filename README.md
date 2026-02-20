@@ -1,2 +1,19 @@
-# data---portfolio
-My Data Science &amp; Analytics Portfolio
+👋Hi, I’m Tsheamo
+
+Aspiring Data Scientist & Data Analyst from South Africa 🇿🇦
+
+ 📊 About Me
+- Skilled in Python, SQL, Power BI, and Excel
+- Passionate about solving real-world problems with data
+- Actively building my project portfolio
+
+📁 Projects
+| Project | Tools | Status |
+|---------|-------|--------|
+| Job Application Tracker | Excel, Power BI | In Progress |
+| Sales Dashboard | Power BI | Coming Soon |
+| Student Performance Analysis | Python | Coming Soon |
+
+📫 Contact
+- LinkedIn: www.linkedin.com/in/botshelo-mdluli-b2816m
+- Email: botshelotsheamomdluli@gmail.com
